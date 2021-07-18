@@ -5,7 +5,7 @@ I'm a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to cre
 
 As an educator turned software engineer, I embody a natural curiosity for learning. 
 
-As a recent graduate of Flatiron School's Software Engineering Program, I am excited about the endless amount of learning ahead of me.
+As a recent graduate of Flatiron School's Software Engineering program, I am excited about the endless amount of learning ahead of me.
 
 I have great planning and time management skills that increase my ability to create efficient code.
 
