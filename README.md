@@ -3,13 +3,11 @@
 
 I'm a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. 
 
-As an educator turned software engineer, I embody a natural curiosity for learning. 
+As an educator turned software engineer, I embody a natural curiosity for learning. I am super excited about the endless amount of learning ahead of me.
 
-As a recent graduate of Flatiron School's Software Engineering program, I am excited about the endless amount of learning ahead of me.
+This past year, I managed to complete my software engineering bootcamp part-time while teaching during a pandemic and being a wife and mom to a small child. I say all this to say that I have great planning and time management skills that increase my ability to create efficient code.
 
-I have great planning and time management skills that increase my ability to create efficient code.
-
-I get excited to verbalize and communicate the thought process behind creating web applications that solve real-world problems.
+As I transition out of the classroom into the tech world, I'm most excited to bring many of my teaching skills with me. I think my teaching experience will make me exceptionally great at being able to verbalize and communicate the thought process behind web applications. 
 
 Get In Touch 
 <br>
