@@ -3,7 +3,7 @@
 
 I'm a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. 
 
-This past year, I managed to complete my software engineering bootcamp part-time while teaching during a pandemic and being a wife and mom to a small child. I say all this to say that I have great planning and time management skills that increase my ability to create efficient code.
+This past year, I managed to complete my software engineering bootcamp part-time while teaching during a pandemic and being a mom to a small child. I say all this to say that I have great planning and time management skills that increase my ability to create efficient code.
 
 As an educator turned software engineer, I embody a natural curiosity for learning. I am super excited about the endless amount of learning ahead of me.
 
