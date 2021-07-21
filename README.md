@@ -7,9 +7,11 @@ This past year, I managed to complete my software engineering bootcamp part-time
 
 As an educator turned software engineer, I embody a natural curiosity for learning. I am super excited about the endless amount of learning ahead of me.
 
-Currently Learning:
+Currently Learning: <br>
   ◆ StackSkills: 2021 Complete Ruby on Rails 6 Bootcamp
+  <br>
   ◆ Algoexperts: Data Structures and Algorithms 
+  <br>
   ◆ Bootstrap
 
 What a great journey this has been so far and I'm just now getting started.
