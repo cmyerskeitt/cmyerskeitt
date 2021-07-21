@@ -7,11 +7,14 @@ This past year, I managed to complete my software engineering bootcamp part-time
 
 As an educator turned software engineer, I embody a natural curiosity for learning. I am super excited about the endless amount of learning ahead of me.
 
-As I transition out of the classroom into the tech world, I'm excited to bring many of my transferable skills with me. I think my teaching experience will make me exceptionally great at being able to verbalize and communicate the thought process behind web applications. I think my experiences working in nonprofits will help me remain flexible, driven, and organized. 
+Currently Learning:
+  ◆ StackSkills: 2021 Complete Ruby on Rails 6 Bootcamp
+  ◆ Algoexperts: Data Structures and Algorithms 
+  ◆ Bootstrap
 
 What a great journey this has been so far and I'm just now getting started.
 
-Get In Touch 
+Get In Touch With Me
 <br>
 📫 cmyerskeitt@gmail.com
 <br>
