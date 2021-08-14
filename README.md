@@ -12,7 +12,7 @@ Currently Learning: <br>
   <br>
   ◆ Algoexperts: Data Structures and Algorithms 
   <br>
-  ◆ Bootstrap
+ 
 
 What a great journey this has been so far and I'm just now getting started.
 
