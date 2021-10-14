@@ -20,7 +20,7 @@ Get In Touch With Me
 <br>
 📫 cmyerskeitt@gmail.com
  
-Follow me @MKCodes
+Follow me @MKCodes on Twitter or @cmyerskeitt on Medium
 <br>
 
 
