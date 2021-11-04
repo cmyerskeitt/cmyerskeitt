@@ -12,7 +12,8 @@ Currently Learning: <br>
   <br>
   ◆ Algoexperts: Data Structures and Algorithms 
   <br>
- 
+  ◆ A Common Sense Guide to Data Structuresand Algorithms: Level Up Your Core programming Skills by Jay Wengrow
+  <br>
 
 What a great journey this has been so far and I'm just now getting started.
 
