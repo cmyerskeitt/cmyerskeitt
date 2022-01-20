@@ -1,18 +1,18 @@
 
 👋 Hi, I’m Christine Myers Keitt! 👩🏾‍💻
 
-I'm a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. 
+I'm a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. During the day I work as an Associate Integration Engineer for a healthcare IT solutions firm. 
 
-This past year, I managed to complete my software engineering bootcamp part-time while teaching during a pandemic and being a mom to a small child. I say all this to say that I have great planning and time management skills that increase my ability to create efficient code.
+Last year, I managed to complete my software engineering bootcamp part-time while teaching during a pandemic, adulting, and being a wife and mom to a small child. I say all this to say that I have great planning and time management skills that increase my ability to create efficient code.
 
 As an educator turned software engineer, I embody a natural curiosity for learning. I am super excited about the endless amount of learning ahead of me.
 
 Currently Learning: <br>
   ◆ StackSkills: 2021 Complete Ruby on Rails 6 Bootcamp
   <br>
-  ◆ Algoexperts: Data Structures and Algorithms 
+  ◆ #100Devs 30 Week Free Bootcamp ( Practice Makes Progression) 
   <br>
-  ◆ A Common Sense Guide to Data Structuresand Algorithms: Level Up Your Core programming Skills by Jay Wengrow
+  ◆ Class Central's Intro to Javascript 6 Week Bootcamp 
   <br>
 
 What a great journey this has been so far and I'm just now getting started.
@@ -21,7 +21,7 @@ Get In Touch With Me
 <br>
 📫 cmyerskeitt@gmail.com
  
-Follow me @MKCodes on Twitter or @cmyerskeitt on Medium
+Follow me @MKCodes on Twitter 
 <br>
 
 
