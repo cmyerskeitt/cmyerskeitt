@@ -1,7 +1,7 @@
 
 Hi, I’m Christine Myers Keitt! 👩🏾‍💻
 
- 🌅 During the day I work am a Associate Integration Engineer for a healthcare IT solutions firm. <br>
+ 🌅 During the day I work am an Associate Integration Engineer for a healthcare IT solutions firm. <br>
  🤸🏾‍♀️ In my spare time I am a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. 
 
 
