@@ -1,37 +1,55 @@
 
-👋 Hi, I’m Christine Myers Keitt! 👩🏾‍💻
+Hi, I’m Christine Myers Keitt! 👩🏾‍💻
 
-I'm a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. During the day I work as an Associate Integration Engineer for a healthcare IT solutions firm. 
+ 🌅 During the day I work am a Associate Integration Engineer for a healthcare IT solutions firm. <br>
+ 🤸🏾‍♀️ In my spare time I am a Full Stack Software Engineer utilizing Javascript and Ruby on Rails to create some really awesome projects. 
 
-Last year, I managed to complete my software engineering bootcamp part-time while teaching during a pandemic, adulting, and being a wife and mom to a small child. I say all this to say that I have great planning and time management skills that increase my ability to create efficient code.
 
-As an educator turned software engineer, I embody a natural curiosity for learning. I am super excited about the endless amount of learning ahead of me.
+Who am I?
+ <br>
+ ◆ As an educator turned software engineer, I embody a natural curiosity for learning. <br>
+ ◆  I have great planning and time management skills that increase my ability to create efficient code. <br>
+ ◆  I am a career changer. Hence, I want to learn everything to profiency and enjoy every moment of this journey. It's ok if it takes sometime because I am super excited about the endless amount of learning ahead of me.
 
-Currently Learning: <br>
+
+Certifications:
+ <br>
+ ◆  HealthShare Health Connect HL7® Interface Specialist
+
+Currently Learning: 
+  <br>
   ◆ StackSkills: 2021 Complete Ruby on Rails 6 Bootcamp
   <br>
-  ◆ #100Devs 30 Week Free Bootcamp ( Practice Makes Progression) 
+  ◆ Udemy: Javascript Algorithms and Data Structures Masterclass 
   <br>
-  ◆ Class Central's Intro to Javascript 6 Week Bootcamp 
-  <br>
+  ◆ Objectscript
+ 
+Codewars:
+<br>
+![alt text](https://www.codewars.com/users/cmyerskeitt/badges/large)
 
-What a great journey this has been so far and I'm just now getting started.
 
 Get In Touch With Me
 <br>
 📫 cmyerskeitt@gmail.com
- 
-Follow me @MKCodes on Twitter 
+<br>
+🔗 https://www.linkedin.com/in/christinemyerskeitt/
+<br>
+<img alt="Twitter" src="https://img.shields.io/twitter/follow/MKCodes?style=social "/>
 <br>
 
 
 
 Languages
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmyerskeitt)](https://github.com/cmyerskeitt/github-readme-stats)
+<br>
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <br>
+
+
 
 Frameworks & Libraries
 <br>
