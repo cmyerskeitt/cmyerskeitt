@@ -22,7 +22,7 @@ Currently Learning:
   <br>
   ◆ Udemy: Javascript Algorithms and Data Structures Masterclass 
   <br>
-  ◆ Objectscript
+  ◆ Intersystem's Objectscript
  
 Codewars:
 <br>
