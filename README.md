@@ -19,6 +19,8 @@ Certifications:
 Currently Learning: 
   <br>
   ◆ StackSkills: 2021 Complete Ruby on Rails 6 Bootcamp
+   <br>
+  ◆ StackSkills: 2021 Complete JavaScript Masterclass
   <br>
   ◆ Udemy: Javascript Algorithms and Data Structures Masterclass 
   <br>
