@@ -15,6 +15,7 @@ Who am I?
 Certifications:
  <br>
  ◆  HealthShare Health Connect HL7® Interface Specialist
+  <br>
  ◆  TIBCO WebFOCUS Certified Professional  
  
 Currently Learning: 
